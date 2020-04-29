@@ -1,0 +1,13 @@
+#baitap{
+    margin: 200px;
+    padding: 30px;
+    width: 300px;
+    background-color: green;
+}
+
+#baitap a{
+    padding: 15px;
+    text-decoration: none;
+    color: red;
+    font-size: 30px;
+}
